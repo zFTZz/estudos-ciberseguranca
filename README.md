@@ -14,10 +14,4 @@ Plataformas que pratico:
 - Hack The Box
 - Hacker101
 
-Como contribuir/usar este repositório:
-
-1. Explore a pasta labs/ e escolha um desafio.
-2. Cada subpasta de lab contém um template de Writeup que você pode duplicar e preencher com os passos utilizados.
-3. Use notas-estudo/ para guardar comandos, scripts e observações úteis para o dia a dia de um Blue Team.
-
-Contato: (adicione seu e-mail ou LinkedIn aqui)
+Contato: (www.linkedin.com/in/felipe-tomaz-1009bb418)
