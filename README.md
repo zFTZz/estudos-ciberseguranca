@@ -14,7 +14,7 @@ Plataformas que pratico:
 - Hack The Box
 - Hacker101
 
-Contato:
+Contatos:
 
 - [EMAIL](mailto:ftz604304@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/felipe-tomaz-1009bb418)
