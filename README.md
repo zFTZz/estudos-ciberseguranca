@@ -1,6 +1,6 @@
 # estudos-cibersegurança
 
-Bem-vindo ao meu portfólio de estudos em cibersegurança. Meu objetivo de carreira é atuar na área de Blue Team / Defesa e DevSecOps, fortalecendo detecção, resposta a incidentes e segurança integrada no ciclo de desenvolvimento.
+Bem-vindo ao meu portfólio de estudos em cibersegurança. Meu objetivo de carreira é atuar na área de Blue Team / Defesa e DevSecOps, fortalecendo detecção, resposta a incidentes e segurança [...]
 
 O que encontrará neste repositório:
 
@@ -14,4 +14,8 @@ Plataformas que pratico:
 - Hack The Box
 - Hacker101
 
-Contato: (www.linkedin.com/in/felipe-tomaz-1009bb418)
+Contato:
+
+- [email (ftz604304@gmail.com)](mailto:ftz604304@gmail.com)
+- [linkedin (www.linkedin.com/in/felipe-tomaz-1009bb418)](https://www.linkedin.com/in/felipe-tomaz-1009bb418)
+- [telegram (t.me/Um_mlk_ai)](https://t.me/Um_mlk_ai)
