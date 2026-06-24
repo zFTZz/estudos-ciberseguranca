@@ -16,6 +16,6 @@ Plataformas que pratico:
 
 Contato:
 
-- [email (ftz604304@gmail.com)](mailto:ftz604304@gmail.com)
-- [linkedin (www.linkedin.com/in/felipe-tomaz-1009bb418)](https://www.linkedin.com/in/felipe-tomaz-1009bb418)
-- [telegram (t.me/Um_mlk_ai)](https://t.me/Um_mlk_ai)
+- [email](mailto:ftz604304@gmail.com)
+- [linkedin](https://www.linkedin.com/in/felipe-tomaz-1009bb418)
+- [telegram](https://t.me/Um_mlk_ai)
