@@ -1,6 +1,6 @@
 # estudos-cibersegurança
 
-Bem-vindo ao meu portfólio de estudos em cibersegurança. Meu objetivo de carreira é atuar na área de Blue Team / Defesa e DevSecOps, fortalecendo detecção, resposta a incidentes e segurança [...]
+Bem-vindo ao meu portfólio de estudos em cibersegurança. Meu objetivo de carreira é atuar na área de Blue Team / Defesa e DevSecOps, fortalecendo detecção, resposta a incidentes e segurança
 
 O que encontrará neste repositório:
 
