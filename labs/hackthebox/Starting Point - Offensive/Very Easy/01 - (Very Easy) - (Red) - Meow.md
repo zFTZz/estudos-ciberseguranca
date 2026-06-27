@@ -2,7 +2,7 @@
 # 01 - (Very Easy) - (Red) - Meow
 ---
 ---
-title: "Meow"
+'''title: "Meow"
 difficulty: "Very Easy"
 track: "Network"
 team_focus: "Red"
