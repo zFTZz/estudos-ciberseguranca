@@ -1,14 +1,17 @@
----
 # 01 - (Very Easy) - (Red) - Meow
----
----
-# title: "Meow" | difficulty: "Very Easy"
-  ##track: "Network" | team_focus: "Red"
-  ###tags: ["telnet","enum","default-credentials"]
-  ###date: 2026-06-27
-  ###status: "complete"
-  ###htblink: "[https://www.hackthebox.eu/](https://app.hackthebox.com/machines/Meow)"
----
+
+## Title: "Meow" | Difficulty: "Very Easy"
+
+### Track: "Network" | Team focus: "Red"
+
+#### Tags: ["telnet", "enum", "default-credentials"]
+
+#### Date: 2026-06-27
+
+#### Status: "complete"
+
+#### HTB link: https://app.hackthebox.com/machines/Meow
+
 
 # Hack The Box - Meow
 
