@@ -60,7 +60,3 @@ Como usar este repositório
 Contato / Créditos
 - Autor: zFTZz
 - Para dúvidas ou contribuições, abra uma issue ou envie um PR com o conteúdo organizado conforme as instruções acima.
-
----
-
-Esse arquivo foi atualizado para facilitar a navegação e explicar o propósito de cada pasta para visitantes e colaboradores.
