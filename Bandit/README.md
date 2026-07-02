@@ -1,10 +1,7 @@
-# Bandit (OverTheWire)
+# Bandit (moved)
 
-Este diretório contém anotações, comandos e soluções relacionados ao jogo Bandit do OverTheWire.
+Esta pasta foi renomeada para `OverTheWire`.
 
-Estrutura sugerida:
+Todos os conteúdos relacionados ao Bandit foram movidos para `OverTheWire/Bandit/`.
 
-- 01/README.md - notas do nível 1
-- 02/README.md - notas do nível 2
-
-Adicione arquivos por nível conforme for resolvendo os desafios.
+Por favor, consulte `OverTheWire/README.md` para a nova organização.
