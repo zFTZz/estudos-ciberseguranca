@@ -1,11 +1,4 @@
-# Leviathan
+# Leviathan (moved)
 
-Leviathan são desafios que envolvem engenharia reversa básica e escalada de privilégios em sistemas Linux.
-
-Foco principal:
-
-- Entender binários simples (strings, comportamento, entradas esperadas)
-- Uso de ferramentas como strings, ltrace, strace, gdb e objdump
-- Técnicas de escalonamento de privilégios e exploração de configurações do sistema
-
-Organize anotações de análise de binários, passos para reprodução e lições aprendidas nesta pasta.
+O conteúdo desta pasta foi movido para OverTheWire/Leviathan/.
+Por favor consulte OverTheWire/Leviathan/README.md para a nova organização.
