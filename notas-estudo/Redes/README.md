@@ -1,6 +1,6 @@
 # Redes - Notas de Estudo
 
-Assuntos sugeridos:
+Assuntos que foram abordados:
 - Modelos OSI/TCP-IP e análise de tráfego
 - Ferramentas: tcpdump, tshark, wireshark
 - Protocolos críticos: DNS, DHCP, HTTP/HTTPS, SMTP
