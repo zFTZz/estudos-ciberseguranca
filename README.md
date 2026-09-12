@@ -10,7 +10,7 @@ Repositório estruturado para documentação técnica de técnicas de ataque, de
 
 | Plataforma | Dificuldade | SO | Vetor Principal | Documentação |
 | :--- | :--- | :--- | :--- | :---: |
-| Hack The Box | Very Easy | Linux | Misconfiguration / Telnet (No Auth) | [Acessar Write-up](./writeups/htb/starting-point-meow.md) |
+| Hack The Box | Very Easy | Linux | Misconfiguration / Telnet (No Auth) | [Acessar Write-up](./writeups/htb) |
 
 ---
 
