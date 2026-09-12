@@ -8,9 +8,17 @@ Repositório estruturado para documentação técnica de técnicas de ataque, de
 
 ### ⚔️ Hack The Box Write-ups
 
-| Máquina / Lab | Plataforma | Dificuldade | SO | Vetor Principal | Documentação |
-| :--- | :--- | :--- | :--- | :--- | :---: |
-| **Meow** | Hack The Box | Very Easy | Linux | Misconfiguration / Telnet (No Auth) | [Acessar Write-up](./writeups/htb/starting-point-meow.md) |
+| Plataforma | Dificuldade | SO | Vetor Principal | Documentação |
+| :--- | :--- | :--- | :--- | :---: |
+| Hack The Box | Very Easy | Linux | Misconfiguration / Telnet (No Auth) | [Acessar Write-up](./writeups/htb/starting-point-meow.md) |
+
+---
+
+### 🕹️ OverTheWire Wargames
+
+| Desafio / Wargame | Níveis | Foco Técnico | Documentação |
+| :--- | :--- | :--- | :---: |
+| **Bandit** | Levels 0 → 14 | Fundamentos Linux, Streams POSIX, Regex, Redirection & SSH Keys | [Acessar Walkthrough](./writeups/overthewire/bandit-0-to-14.md) |
 
 ---
 
