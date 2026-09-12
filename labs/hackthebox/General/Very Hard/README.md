@@ -1,1 +1,0 @@
-Very Hard — estudos extensos.

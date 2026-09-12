@@ -1,1 +1,0 @@
-Hard — Track: exercícios difíceis.

@@ -1,1 +1,0 @@
-Hard — análises avançadas.

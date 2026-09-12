@@ -1,21 +1,20 @@
-# estudos-cibersegurança
+# 🛡️ Offensive Security Labs & Technical Write-ups
 
-Bem-vindo ao meu portfólio de estudos em cibersegurança. Meu objetivo de carreira é atuar na área de Blue Team / Defesa e DevSecOps, fortalecendo detecção, resposta a incidentes e segurança
+Repositório estruturado para documentação técnica de técnicas de ataque, desafios CTF e relatórios de exploração de laboratórios práticos.
 
-O que encontrará neste repositório:
+> ⚠️ **Aviso de Conformidade:** Em respeito aos Termos de Serviço das plataformas (como Hack The Box), este repositório contém apenas resoluções de máquinas aposentadas (*Retired*) e desafios introdutórios (*Starting Point*), sem vazamento de flags ou conteúdo de máquinas ativas.
 
-- labs/: writeups e exercícios práticos em plataformas como Bandit, TryHackMe, Hack The Box e Hacker101.
-- notas-estudo/: anotações e resumos de conceitos chave (Linux, Redes, Python) com foco em aplicação prática para defesa.
+---
 
-Plataformas que pratico:
+### ⚔️ Hack The Box Write-ups
 
-- Bandit (OverTheWire)
-- TryHackMe
-- Hack The Box
-- Hacker101
+| Máquina / Lab | Plataforma | Dificuldade | SO | Vetor Principal | Documentação |
+| :--- | :--- | :--- | :--- | :--- | :---: |
+| **Meow** | Hack The Box | Very Easy | Linux | Misconfiguration / Telnet (No Auth) | [Acessar Write-up](./writeups/htb/starting-point-meow.md) |
 
-Contatos:
+---
 
-- [EMAIL](mailto:ftz604304@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/felipe-tomaz-1009bb418)
-- [TELEGRAM](https://t.me/Um_mlk_ai)
+### 📝 Cheatsheets & Metodologia
+- [Em breve] **Linux Privilege Escalation:** Vetores de abuso de SUID, Capabilities e Kernel.
+- [Em breve] **Active Directory Enumeration:** Metodologia de recon com BloodHound e Impacket.
+- [Em breve] **Windows API & Tokens:** Manipulação de privilégios de processo.

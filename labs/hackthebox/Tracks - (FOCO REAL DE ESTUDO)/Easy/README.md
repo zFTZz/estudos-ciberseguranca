@@ -1,1 +1,0 @@
-Easy — Track: exercícios fáceis.

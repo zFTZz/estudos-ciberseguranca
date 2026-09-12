@@ -1,1 +1,0 @@
-Medium — Track: exercícios médios.

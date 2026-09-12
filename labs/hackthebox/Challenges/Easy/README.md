@@ -1,1 +1,0 @@
-Easy — desafios fáceis.

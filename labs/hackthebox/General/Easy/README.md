@@ -1,1 +1,0 @@
-Easy — referências práticas curtas.
