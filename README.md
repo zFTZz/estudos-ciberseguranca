@@ -25,7 +25,7 @@ Log de laboratórios (HTB, OverTheWire, THM) com foco no que cada ataque ensina 
 ### 📝 Cheatsheets & Metodologia
 
 - **Cheatsheet CJCA** (privesc Linux/Windows, AD, SIEM, report): [HTB-studies](https://github.com/zFTZz/HTB-studies)
-=======
+
 - [Em breve] **Linux Privilege Escalation:** Vetores de abuso de SUID, Capabilities e Kernel.
 - [Em breve] **Active Directory Enumeration:** Metodologia de recon com BloodHound e Impacket.
 - [Em breve] **Windows API & Tokens:** Manipulação de privilégios de processo.
