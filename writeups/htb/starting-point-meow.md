@@ -1,8 +1,8 @@
-# 01 - (Very Easy) - (Red) - Meow
+# 01 - (Very Easy) - (Purple) - Meow
 
 ## Title: "Meow" | Difficulty: "Very Easy"
 
-### Track: "Network" | Team focus: "Red"
+### Track: "Network" | Team focus: "Purple (ataca p/ aprender, detecta p/ alertar)"
 
 #### Tags: ["telnet", "enum", "default-credentials"]
 
@@ -68,12 +68,10 @@ cat flag.txt
 
 ## O resultado
 
-```
-HTB{b40abdfe23665f766f9c61ecba8a4c19}
-```
-
-Flag capturada! ✅
+`flag.txt` lido com sucesso (valor omitido — sem vazamento de flags).
 
 ---
 
 **Aprendizado:** Telnet é inseguro demais, transmite tudo em texto plano e ainda permite senha vazia. Moral da história: sempre usar SSH e colocar uma senha forte nas coisas.
+
+**Olhar Blue:** telnet na rede = credencial visível em PCAP (`tcp.port == 23`), login `root` sem senha = anomalia de autenticação. Num SIEM, telnet exposto vira alerta de `cleartext protocol` — mesmo padrão que meu honeypot captura em `ssh.log`.

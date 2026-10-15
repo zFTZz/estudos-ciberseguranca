@@ -1,6 +1,6 @@
-# 🛡️ Offensive Security Labs & Technical Write-ups
+# 🛡️ Security Labs & Technical Write-ups (olhar Blue/Purple)
 
-Repositório estruturado para documentação técnica de técnicas de ataque, desafios CTF e relatórios de exploração de laboratórios práticos.
+Log de laboratórios (HTB, OverTheWire, THM) com foco no que cada ataque ensina sobre detecção. Projetos principais: [Purple-Honeypot-SIEM](https://github.com/zFTZz/Purple-Honeypot-SIEM) e [HTB-studies](https://github.com/zFTZz/HTB-studies).
 
 > ⚠️ **Aviso de Conformidade:** Em respeito aos Termos de Serviço das plataformas (como Hack The Box), este repositório contém apenas resoluções de máquinas aposentadas (*Retired*) e desafios introdutórios (*Starting Point*), sem vazamento de flags ou conteúdo de máquinas ativas.
 
@@ -15,6 +15,4 @@ Repositório estruturado para documentação técnica de técnicas de ataque, de
 ---
 
 ### 📝 Cheatsheets & Metodologia
-- [Em breve] **Linux Privilege Escalation:** Vetores de abuso de SUID, Capabilities e Kernel.
-- [Em breve] **Active Directory Enumeration:** Metodologia de recon com BloodHound e Impacket.
-- [Em breve] **Windows API & Tokens:** Manipulação de privilégios de processo.
+- **Cheatsheet CJCA** (privesc Linux/Windows, AD, SIEM, report): [HTB-studies](https://github.com/zFTZz/HTB-studies)
