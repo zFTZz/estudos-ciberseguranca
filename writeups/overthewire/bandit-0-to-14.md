@@ -4,7 +4,7 @@
 - **Wargame:** Bandit
 - **Níveis Documentados:** 0 a 14
 - **Foco Técnico:** Administração Linux, Manipulação de Streams (POSIX), Expressões Regulares, Arquivos Binários e Autenticação SSH.
-- **Autor:** Felipe (zFTZz)
+- **Autor:** Felipe (FTZ)
 
 ---
 
