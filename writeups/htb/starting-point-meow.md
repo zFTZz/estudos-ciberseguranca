@@ -74,7 +74,7 @@ cat flag.txt
 
 **Aprendizado:** Telnet é inseguro demais, transmite tudo em texto plano e ainda permite senha vazia. Moral da história: sempre usar SSH e colocar uma senha forte nas coisas.
 
-## Remediação (Blue — trazido do runbook)
+## Remediação
 
 ```bash
 # Desliga e remove Telnet (não deixa voltar no reboot)
@@ -98,4 +98,4 @@ sudo ufw deny 23/tcp
 # + VLAN dedicada + acesso só via bastion host
 ```
 
-**Olhar Blue:** telnet na rede = credencial visível em PCAP (`tcp.port == 23`), login `root` sem senha = anomalia de autenticação. Num SIEM, telnet exposto vira alerta de `cleartext protocol` — mesmo padrão que meu honeypot captura em `ssh.log`.
+**Conclusão:** telnet na rede = credencial visível em PCAP (`tcp.port == 23`), login `root` sem senha = anomalia de autenticação. Num SIEM, telnet exposto vira alerta de `cleartext protocol` — mesmo padrão que meu honeypot captura em `ssh.log`.
